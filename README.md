@@ -263,6 +263,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [kashi-os](https://kashi-os.pages.dev) | [![open](assets/open.png) available](https://github.com/ericaugusto-git/kashi-os)
 [RaptorOS](https://raptorino.com) | [![open](assets/open.png) available](https://github.com/Raptor1818/RaptorOS)
 [mojsx](https://mojsx.vercel.app) | [![open](assets/open.png) available](https://github.com/mo-jsx/resume-95)
+[Travers Tech](https://travers.tech) | ![locked](assets/locked.png) private | Works on mobile, too!
 
 ## Archived
 
